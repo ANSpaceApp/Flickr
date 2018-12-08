@@ -2,8 +2,8 @@
 //  FlickrPost.swift
 //  Flickr
 //
-//  Created by Krasa on 23.06.2018.
-//  Copyright © 2018 Krasa. All rights reserved.
+//  Created by Амир Разаков on 23.06.2018.
+//  Copyright © 2018 Амир Разаков. All rights reserved.
 //
 
 import Foundation
